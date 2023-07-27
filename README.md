@@ -8,6 +8,7 @@ The whole project is divided into three parts:
   3) The key generating applet that both the AR and VR apps access in order to use the video streaming. This process is done automatically once both parties connect to the Agora streaming service.
 
 ![image](https://github.com/leezhengyishawn/XR-Ultrasound/assets/100258469/ec3aa768-6db5-4f77-ba29-ac920baacbd3)
+
 *A demonstration of the app from the instructors point of view*
 
 # 3. How to Use
